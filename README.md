@@ -22,21 +22,31 @@
 
 ## `> sobre_mim`
 
-Sou **Rayanne Fanesio**, atuo nas áreas de **análise contábil** e **análise de processos**.
+Sou **Rayanne Fanesio**, atuo nas áreas de **Contábil** e **análise de processos**.
 
 Meu interesse por tecnologia está ligado à ideia de tornar processos mais organizados, inteligentes e eficientes.
 
 Atualmente estou desenvolvendo meus conhecimentos em programação com **PHP, HTML e CSS**, criando projetos práticos enquanto evoluo na área de tecnologia.
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   CONTABILIDADE                              │
-│        │                                     │
-│        ├────────── PROCESSOS                  │
-│        │              │                      │
-│        │              └──────── TECNOLOGIA   │
-│        │                                     │
-│        └────────── AUTOMAÇÃO                  │
-│                                              │
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                 CONTABILIDADE + TECNOLOGIA                   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   CONTABILIDADE                                              │
+│        │                                                     │
+│        ▼                                                     │
+│   ANÁLISE DE PROCESSOS                                       │
+│        │                                                     │
+│        ├──────────────► AUTOMAÇÃO                            │
+│        │                     │                               │
+│        ▼                     ▼                               │
+│   ORGANIZAÇÃO          EFICIÊNCIA                            │
+│        │                     │                               │
+│        └──────────────┬──────┘                               │
+│                       ▼                                      │
+│                  TECNOLOGIA                                  │
+│                                                              │
+│              processos melhores, menos manual                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
